@@ -14,3 +14,5 @@ docker exec -it scylla-1 /bin/bash
 nodetool status --resolve-ip
 ```
 There should be three nodes up and running, denoted by the UN (Up Normal) status.
+
+For scylla resources and documentation, refer to the following links: [Official Resources](https://resources.scylladb.com)
